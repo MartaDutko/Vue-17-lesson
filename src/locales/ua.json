@@ -1,0 +1,30 @@
+{
+    "menu": {
+        "main": "Головна",
+        "products": "Товари"
+    },
+    "actionTitles": {
+        "login": "Увійти",
+        "logout": "Вийти"
+    },
+    "message": {
+        "loginMesage": "Потрібно  авторизуватись",
+        "greetingMesage": "Вітаємо на нашому сайті",
+        "emptyBasket": "Пуста корзина",
+        "totalPrice": "Загальна ціна"
+    },
+    "btnTitle": {
+        "buy": "Купити",
+        "toOrder": "Оформити замовлення"
+    },
+    "labelBtn": {
+        "price": "ціна",
+        "seller": "продавець",
+        "title": {
+            "ua": "назва ua",
+            "en": "назва en"
+        },
+        "imgsrc": "imgsrc",
+        "model": "марка"
+    }
+}

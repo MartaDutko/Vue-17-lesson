@@ -1,0 +1,30 @@
+{
+    "menu": {
+        "main": "Main page",
+        "products": "Products"
+    },
+    "actionTitles": {
+        "login": "LogIn",
+        "logout": "LogOut"
+    },
+    "message": {
+        "loginMesage": "You need to log in",
+        "greetingMesage": "Welcome to our website",
+        "emptyBasket": "Empty basket",
+        "totalPrice": "Total price"
+    },
+    "btnTitle": {
+        "buy": "buy",
+        "toOrder": "To order"
+    },
+    "labelBtn": {
+        "price": "price",
+        "seller": "seller",
+        "title": {
+            "ua": "title ua",
+            "en": "title en"
+        },
+        "imgsrc": "imgsrc",
+        "model": "model"
+    }
+}
